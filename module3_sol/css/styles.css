@@ -1,0 +1,107 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #FFA500;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+h1, h2{
+   text-align: center;
+   
+
+}
+#header, h2{
+   font-style: bold;
+   padding-bottom: 0px;
+   padding-top: 0;
+   font-size: 100
+
+}
+
+#header-nav{
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {  
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: left;
+
+}
+
+.navbar-brand h1 {  
+  font-family: Arial Black, Gadget, sans-serif;
+  color: #000000
+  font-size:1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-toggle{
+  color: black;
+}
+
+#nav-list {
+  margin-top: 0px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  font-size: 1.8em;
+  background-color: white;
+  border: 1px solid black;
+  margin-bottom: 0px;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+.navbar-header button.navbar-toggle{
+  border: 1px solid black;
+  color: black;
+}
+
+header .navbar-default{
+  background-color: grey;
+}
+
+.jumbotron{
+  color: #000000
+}
+
+
+
+  .navbar-brand {
+    padding-top: 10px;
+    height: 50px;
+  }
+  .navbar-brand h1 { 
+    padding-top: 0px;
+    padding-bottom: 10px;
+    font-size: 3vw; /
+  }
+  
+  #collapsable-nav a { 
+    font-size: 1.2em;
+  }
+  #collapsable-nav a span { 
+    font-size: 1em;
+    margin-right: 5px;
+  }
+
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border-color: 1px solid #61122f;
+  }
+  
+
+
+
+  
